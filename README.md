@@ -6,4 +6,4 @@
 
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<img align="center" alt="Rafa-Python" height="30" width="40" src="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><radialGradient id="linux-original-a">
