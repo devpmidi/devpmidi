@@ -3,8 +3,8 @@
 | SOBRE:
 
 - 🌱 Ultimamente estou aprendendo mais na área de programação, em liguagens de Java, Python e também outras afins.
-- 📫 Como chegar até mim: Siga-me pelas redes socias disponibilizadas no perfil!
-- 😄 Pronomes: ela/dela
+- 📫 Como chegar até mim: Siga-me pelas redes sociais disponibilizadas no perfil!
+- 😄 Pronomes: Ela/Dela
 - 🎞 Editor: After Effects e Photoshop (ADOBE)
 
 | ICONS:
