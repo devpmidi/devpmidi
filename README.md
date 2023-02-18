@@ -18,4 +18,4 @@
 
 | Disponibilizando meu payhip
 
-<a href="https://payhip.com/saturnemcgrath"><img align="center" alt="Midi-PAYHIP" height="30" width="40" src="file:///C:/Users/Midian/Downloads/link-2-svgrepo-com.svg">
+<a href="https://payhip.com/saturnemcgrath"><img align="center" alt="CLICK HERE" height="30" width="40">
