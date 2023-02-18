@@ -2,7 +2,7 @@
 
 | SOBRE:
 
-- 🌱 Ultimamente estou aprendendo mais na área de programação, em liguagens de Java, Python e também outras afins.
+- 🌱 Ultimamente estou aprendendo sobre programação, em liguagens de Java, Python e também outras afins.
 - 📫 Como chegar até mim: Siga-me pelas redes sociais disponibilizadas no perfil!
 - 😄 Pronomes: Ela/Dela
 - 🎞 Editor: After Effects e Photoshop (ADOBE)
@@ -18,4 +18,4 @@
 
 | Disponibilizando meu payhip
 
-<a href="https://payhip.com/saturnemcgrath"><img align="center" alt="Midi-PAYHIP" height="30" width="40" src="https://assets.stickpng.com/images/63061d85af6211fb49ecc473.png">
+<a href="https://payhip.com/saturnemcgrath"><img align="center" alt="Midi-PAYHIP" height="30" width="40" src="file:///C:/Users/Midian/Downloads/link-2-svgrepo-com.svg">
