@@ -15,3 +15,7 @@
 <img align="center" alt="Midi-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 <img align="center" alt="Midi-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img align="center" alt="Midi-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+| Disponibilizando meu payhip
+
+<a href="https://payhip.com/saturnemcgrath"><img align="center" alt="Midi-PAYHIP" height="30" width="40" src="https://assets.stickpng.com/images/63061d85af6211fb49ecc473.png">
