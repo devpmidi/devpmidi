@@ -1,7 +1,6 @@
 ### Olá a todos! 👋
 
 - 🌱 Ultimamente estou aprendendo mais na área de programação, em liguagens de Java, Python e também outras afins.
-- 👯\I’m looking to collaborate on .
 - 📫 Como chegar até mim: Siga-me pelas redes socias disponibilizadas no perfil!
 - 😄 Pronomes: ela/dela
 -->
