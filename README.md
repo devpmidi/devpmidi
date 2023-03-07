@@ -2,12 +2,11 @@
 
 | SOBRE:
 
-- 🌱 Ultimamente estou aprendendo sobre programação, em liguagens de Java, Python e também outras afins.
-- 📫 Como chegar até mim: Siga-me pelas redes sociais disponibilizadas no perfil!
+- 🌱 Ultimamente estou aprendendo sobre programação na Fatec Carapicuíba!
 - 😄 Pronomes: Ela/Dela
-- 🎞 Editor: After Effects e Photoshop (ADOBE)
+- 🎞 Editores que utilizo: After Effects e Photoshop (ADOBE)
 
-| ICONS:
+| Softwares que estou aprendendo:
 <img align="center" alt="Midi-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Midi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Midi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
